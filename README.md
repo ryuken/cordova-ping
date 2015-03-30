@@ -19,6 +19,8 @@
 
 # ping
 
+## NOTE CURRENTLY ANDROID ONLY
+
 ```
 var url = "http://google.nl:80";
 
